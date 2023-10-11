@@ -1,10 +1,19 @@
-# Hackathon-Template
+CZI Science organized a hackaton on Mapping the Impact of Research Software in Science (October 24-27, 2023). Below is a list of the projects explored at this event. This serves as a project index page to faciliate the discovery and preservation of the output of this event.
 
-This is a template repo for external hackathon projects. Please build your project off of this template:
-  1. Click the ‘use this template’ button above, and choose an appropriate name for your project
-  2. Turn on basic security features for your repository under Settings -> Security and Analysis. We recommend you enable at least Private vulnerability reporting, Dependabot security updates and Secret Scanning.
-  3. [Grant privileges](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) to other collaborators, if desired.
-  4. Replace this section of the readme and the above heading with an appropriate title and readme for your project. Please DO NOT modify or delete any other part of the readme below this line.
+Applications
+A. Determining the citation intent for software repositories (project repo)
+B. Playing with LLMs and research software (project repo)
+C. Tracing the dependencies of open source software mentioned in the biomedical literature (project repo)
+D. Disciplinary differences in software usage and mention (project repo)
+
+Enhancements
+E. Gold dataset (project repo)
+F. Bidirectional paper-repository traceability (project repo)
+G. Improving tool mention clustering (project repo)
+H. Linking research software to research organizations (project repo)
+
+Visualization
+I. Visualizing adoption and impact of open source software in academia (project repo)
 
 —------------
 ## Software Impact Hackathon
