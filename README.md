@@ -1,4 +1,4 @@
-CZI Science organized a hackaton on Mapping the Impact of Research Software in Science (October 24-27, 2023). Below is a list of the projects explored at this event. This serves as a project index page to faciliate the discovery and preservation of the output of this event.
+CZI Science organized a hackathon on Mapping the Impact of Research Software in Science (October 24-27, 2023). This serves as a project index page to faciliate the discovery and preservation of the output of this event.
 
 Applications
 A. Determining the citation intent for software repositories (project repo)
