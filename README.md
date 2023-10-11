@@ -1,19 +1,19 @@
 CZI Science organized a hackathon on Mapping the Impact of Research Software in Science (October 24-27, 2023). This serves as a project index page to faciliate the discovery and preservation of the output of this event.
 
-Applications
-A. Determining the citation intent for software repositories (project repo)
-B. Playing with LLMs and research software (project repo)
-C. Tracing the dependencies of open source software mentioned in the biomedical literature (project repo)
-D. Disciplinary differences in software usage and mention (project repo)
+Applications 
+A. Determining the citation intent for software repositories (project repo)  
+B. Playing with LLMs and research software (project repo)  
+C. Tracing the dependencies of open source software mentioned in the biomedical literature (project repo)  
+D. Disciplinary differences in software usage and mention (project repo)  
 
-Enhancements
-E. Gold dataset (project repo)
-F. Bidirectional paper-repository traceability (project repo)
-G. Improving tool mention clustering (project repo)
-H. Linking research software to research organizations (project repo)
+Enhancements  
+E. Gold dataset (project repo)  
+F. Bidirectional paper-repository traceability (project repo)  
+G. Improving tool mention clustering (project repo)  
+H. Linking research software to research organizations (project repo)  
 
-Visualization
-I. Visualizing adoption and impact of open source software in academia (project repo)
+Visualization  
+I. Visualizing adoption and impact of open source software in academia (project repo)  
 
 —------------
 ## Software Impact Hackathon
